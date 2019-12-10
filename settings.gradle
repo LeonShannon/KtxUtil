@@ -1,0 +1,2 @@
+include ':app', ':base-ktx',':buildSrc'
+rootProject.name='KtxUtil'
